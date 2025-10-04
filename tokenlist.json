@@ -1,0 +1,15 @@
+{
+  "name": "SOLAY39",
+  "symbol": "SOLAY",
+  "address": "5LMzEd8aJbkRkVG3J1J5YJuGeNAbbnpB5HcnEZi5xray",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/sanettanammurata-max/solay39-token/refs/heads/main/logo%20solay39.png",
+  "tags": ["utility", "payment", "dex", "audit"],
+  "extensions": {
+    "website": "https://solay39.eu",
+    "twitter": "https://x.com/solay39official?t=Lpcc3iO4wtMGGKa2qzETEQ&s=09",
+    "telegram": "https://t.me/solay39",
+    "github": "https://github.com/sanettanammurata-max/solay39-token",
+    "description": "SOLAY39 is a dual-utility token built on Solana, designed for transparency, automation, and decentralized finance. Starting in 2026, it will serve as an alternative payment method on solay39.eu for smart contract audits, premium DEX features, and platform services."
+  }
+}
